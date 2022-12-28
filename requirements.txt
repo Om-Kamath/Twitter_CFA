@@ -1,0 +1,5 @@
+pandas
+tweepy
+pymongo
+configparser
+spacy
